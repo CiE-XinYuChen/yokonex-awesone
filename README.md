@@ -4,7 +4,7 @@
 
 <img width="120" src="https://img.shields.io/badge/%E5%BD%B9%E6%AC%A1%E5%85%83-YOKONEX-FF6B9D?style=for-the-badge" />
 
-**精选役次元 (YOKONEX) 开发资源、协议文档、工具与社区项目**
+**役次元 (YOKONEX) 开发资源、协议文档、工具与社区项目**
 
 [![QQ Group](https://img.shields.io/badge/QQ开发者群-712554067-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/712554067)
 
@@ -36,6 +36,16 @@
 ## 社区项目
 
 > 社区开发者基于 YOKONEX 协议构建的项目。欢迎 [提交 PR](CONTRIBUTING.md) 添加你的作品！
+
+### 蓝牙客户端基础设施
+
+- [YokoNex-OpenCLI](https://github.com/CiE-XinYuChen/YokoNex-OpenCLI) `Python` — YokoNex 系列设备的可拓展统一 BLE 蓝牙服务端、蓝牙客户端、中转服务端、CLI，支持MCP，websocket。
+- [YoKonex-BLE-WS](https://github.com/CiE-XinYuChen/YoKonex-BLE-WS) `Python` — 直连 Yokonex 电击器设备的蓝牙库，在DG-Lab websocket协议基础修改实现的以兼容所有DG-LAB项目。
+
+### VRChat 联动
+
+- [YCY-VRCOSC](https://github.com/CiE-XinYuChen/YCY-VRCOSC) `Python` — 通过 VRChat OSC 以 Aviator 触发器或 SoundPad 控制一个或多个YokoNex设备，并支持远程代理。
+- [Shocking-VRChat-for-YCY](https://github.com/CiE-XinYuChen/Shocking-VRChat-for-YCY) `Python` — 接收 VRChat OSC 消息，与 VRChat 地图联动。为[Shocking-VRChat](https://github.com/VRChatNext/Shocking-VRChat)的fork项目
 
 ---
 
