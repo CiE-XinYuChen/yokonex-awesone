@@ -51,7 +51,13 @@
 
 ## Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CiE-XinYuChen/yokonex-awesone&type=Date)](https://star-history.com/#CiE-XinYuChen/yokonex-awesone&Date)
+<a href="https://www.star-history.com/?type=date&repos=CiE-XinYuChen%2Fyokonex-awesone">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CiE-XinYuChen/yokonex-awesone&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CiE-XinYuChen/yokonex-awesone&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CiE-XinYuChen/yokonex-awesone&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
