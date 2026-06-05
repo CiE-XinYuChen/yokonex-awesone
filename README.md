@@ -45,7 +45,7 @@
 ### VRChat 联动
 
 - [YCY-VRCOSC](https://github.com/CiE-XinYuChen/YCY-VRCOSC) `Python` — 通过 VRChat OSC 以 Aviator 触发器或 SoundPad 控制一个或多个YokoNex设备，并支持远程代理。
-- [Shocking-VRChat-for-YCY](https://github.com/CiE-XinYuChen/Shocking-VRChat-for-YCY) `Python` — 接收 VRChat Avatar OSC 消息，触碰时触发 YCY 设备蓝牙电击。为《芝士郊狼台球后援会》的fork项目
+- [Shocking-VRChat-for-YCY](https://github.com/CiE-XinYuChen/Shocking-VRChat-for-YCY) `Python` — 接收 VRChat OSC 消息，与 VRChat 地图联动。为[Shocking-VRChat](https://github.com/VRChatNext/Shocking-VRChat)的fork项目
 
 ---
 
