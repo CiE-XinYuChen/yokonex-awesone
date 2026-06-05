@@ -4,7 +4,7 @@
 
 <img width="120" src="https://img.shields.io/badge/%E5%BD%B9%E6%AC%A1%E5%85%83-YOKONEX-FF6B9D?style=for-the-badge" />
 
-**精选役次元 (YOKONEX) 开发资源、协议文档、工具与社区项目**
+**役次元 (YOKONEX) 开发资源、协议文档、工具与社区项目**
 
 [![QQ Group](https://img.shields.io/badge/QQ开发者群-712554067-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/712554067)
 
