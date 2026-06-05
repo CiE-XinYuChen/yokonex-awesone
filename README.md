@@ -20,6 +20,7 @@
 
 - [官方资源](#官方资源)
 - [社区项目](#社区项目)
+- [Star 趋势](#star-趋势)
 - [贡献者](#贡献者)
 
 ---
@@ -38,6 +39,12 @@
 
 ---
 
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CiE-XinYuChen/yokonex-awesone&type=Date)](https://star-history.com/#CiE-XinYuChen/yokonex-awesone&Date)
+
+---
+
 ## 贡献者
 
 感谢所有为本项目做出贡献的开发者！
@@ -45,6 +52,8 @@
 <a href="https://github.com/CiE-XinYuChen/yokonex-awesone/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CiE-XinYuChen/yokonex-awesone" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ---
 
