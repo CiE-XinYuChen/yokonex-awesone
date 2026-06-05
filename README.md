@@ -36,16 +36,14 @@
 
 > 社区开发者基于 YOKONEX 协议构建的项目。欢迎 [提交 PR](CONTRIBUTING.md) 添加你的作品！
 
-- 
-
 ---
 
 ## 贡献者
 
 感谢所有为本项目做出贡献的开发者！
 
-<a href="https://github.com/YCY-YOKONEX/OpenSource/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YCY-YOKONEX/OpenSource" />
+<a href="https://github.com/CiE-XinYuChen/yokonex-awesone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CiE-XinYuChen/yokonex-awesone" />
 </a>
 
 ---
